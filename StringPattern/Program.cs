@@ -16,6 +16,7 @@ namespace StringPattern
                     string dh = arrayString[i].ToString();
                     Console.Write(dh);
                     Console.Write(",");
+
                 }
                 catch (Exception)
                 {
